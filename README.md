@@ -7,17 +7,17 @@
 - 파이썬,numpy,pandas,graphtools,pyto
 rch
 - 파이썬 실행환경 /Local/GCP(NSML?)/
-Google
+Google  
 2021.01.19
 2. 파이썬 기초 문법
 - 변수,함수 기초개념
 - Control&Loop
-- str다루기
+- str다루기  
 2021.01.20
 3. 파이썬 기초 문법 II
 - 파이썬의 데이터객체:dict,set,collected
 - Listcomprehension개념과 활용
-- 함수의 가변인자와 키워드 인자
+- 함수의 가변인자와 키워드 인자  
 2021.01.21
 4. 파이썬으로 데이터 다루기
 - 모듈과 class
