@@ -22,13 +22,15 @@ Google
 - Listcomprehension개념과 활용
 - 함수의 가변인자와 키워드 인자  
 
-2021.01.21  
+2021.01.21, 2021.01.22  
 4. 파이썬으로 데이터 다루기
 - 모듈과 class
 - 데이터 클롤링 기법이해하기
 - 파이썬 데이터 파일 처리하기 :csv,json,pic
 kle,xml
-- 데이터 크롤링 시도하기
+- 데이터 크롤링 시도하기  
+
+2021.01.22  
 5. Numpysection
 - Numpy개요와 ndarray배열
 - numpyarray생성과 변형
