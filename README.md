@@ -35,18 +35,28 @@ kle,xml
 - Numpy개요와 ndarray배열
 - numpyarray생성과 변형
 - numpyarray연산
+
+2021.01.25  
 6. PandassectionI
 - Pandas개요 - Series,DataFrame
 - DataFrame연산하기
 - GroupBy- 피봇테이블 분석하기
+
+2021.01.26, 2021.01.27  
 7. PandassectionII
 - 데이터 붙이기
 - TimeSeiresdata다루기
 - Shift&Rolling
+
+2021.01.28  
 8. Graphtoolssection
 - 데이터 그래프 다루기 툴 개요
 - matplotlib
 - seaborn
 - Plotly
+
+2021.01.29  
 9. Pytorch다루기 이해하기
+
+2021.02.01  
 10. PytorchDeepLearning모델 만들기
