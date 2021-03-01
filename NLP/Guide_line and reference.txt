@@ -1,0 +1,38 @@
+Natural language processing(NLP) 
+conferences : ACL, EMNLP, NAACL / text mining - KDD, The WebConf, WSDM, CIKM, ICWSM / 
+Information retrieval - SIGIR, WSDM, CIKM, RecSys
+
+# Tokenization, stemming - low level
+
+https://medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908
+
+# Word and phrase level - 단어
+- Named entity recognition(NER)(고유명사 인식), POS tagging(품사,성분 분석), noun_phase chunking, 
+dependency parsing, coreference resolution
+
+# Sentence level - 문장
+- Sentiment analysis, machine translation
+
+# Multi-sentence and paragraph level - 문단
+- Entailment prediction(두 문장간의 논리, 모순관계 예측), question answering(질의 응답), 
+dialog systems(대화형, 챗봇), summarization(요약)
+
+# Text mining
+trend 분석(유용한 데이터 추출), Document clustering, Computation in social science(사회성향 분석)
+
+# Information retrieval - 
+추천시스템, 
+
+
+# Model
+# Sequential , RNN, LSTM, GRU
+
+LSTM - https://towardsdatascience.com/sentiment-analysis-using-lstm-step-by-step-50d074f09948
+
+
+# Transformer : 문장 전체의 관계를 학습할 때
+
+
+# GPT-2
+
+http://jalammar.github.io/illustrated-gpt2/
