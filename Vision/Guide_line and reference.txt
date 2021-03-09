@@ -1,3 +1,19 @@
+# Guide Line
+
+* dataset is always biased - sample dataset / real dataset
+Data :
+ - data augmentation
+  - brightness, rotate, crop, shear, perspective
+Knowledge distillation
+
+MLP의 단점 : 평균이미지 형태의 weight가 만들어진다. - 부분을 보고 해석할 수 없다.
+Convolution - 활용 : Image-level classification, Classification+Regression, Pixel-level classification
+
+basic terms : backbone, BatchNorm, receptive fielter, 
+
+AlexNet : 7 layers, 11x11 conv, ReLU, Dropout, LRN
+VGGNet : 16,19 layers, 3x3 conv, no LRN
+
 # OpenCV
 
 https://github.com/spmallick/learnopencv/blob/master/README.md?ck_subscriber_id=1178824146
